@@ -1,0 +1,118 @@
+{
+  "per_task": [
+    {
+      "task_group": "libero_object",
+      "task_id": 8,
+      "metrics": {
+        "sum_rewards": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "max_rewards": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "successes": [
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true
+        ],
+        "video_paths": [
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_0.mp4",
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_1.mp4",
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_2.mp4",
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_3.mp4",
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_4.mp4",
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_5.mp4",
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_6.mp4",
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_7.mp4",
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_8.mp4",
+          "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_9.mp4"
+        ],
+        "predicted_video_paths": []
+      },
+      "n_episodes": 10,
+      "n_success": 5,
+      "pc_success": 50.0,
+      "pc_success_ci95": [
+        23.659309051256404,
+        76.3406909487436
+      ]
+    }
+  ],
+  "per_group": {
+    "libero_object": {
+      "avg_sum_reward": 0.5,
+      "avg_max_reward": 0.5,
+      "pc_success": 50.0,
+      "n_episodes": 10,
+      "n_success": 5,
+      "pc_success_ci95": [
+        23.659309051256404,
+        76.3406909487436
+      ],
+      "video_paths": [
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_0.mp4",
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_1.mp4",
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_2.mp4",
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_3.mp4",
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_4.mp4",
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_5.mp4",
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_6.mp4",
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_7.mp4",
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_8.mp4",
+        "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_9.mp4"
+      ],
+      "predicted_video_paths": []
+    }
+  },
+  "overall": {
+    "avg_sum_reward": 0.5,
+    "avg_max_reward": 0.5,
+    "pc_success": 50.0,
+    "n_episodes": 10,
+    "n_success": 5,
+    "pc_success_ci95": [
+      23.659309051256404,
+      76.3406909487436
+    ],
+    "eval_s": 966.1150443553925,
+    "eval_ep_s": 96.61150448322296,
+    "video_paths": [
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_0.mp4",
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_1.mp4",
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_2.mp4",
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_3.mp4",
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_4.mp4",
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_5.mp4",
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_6.mp4",
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_7.mp4",
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_8.mp4",
+      "outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task8/videos/libero_object_8/eval_episode_9.mp4"
+    ],
+    "predicted_video_paths": []
+  }
+}

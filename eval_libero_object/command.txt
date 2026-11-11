@@ -1,0 +1,1 @@
+lerobot-eval --policy.path=HuggingFaceVLA/smolvla_libero --policy.device=cuda --env.type=libero --env.task=libero_object --env.task_ids=[$i] --env.init_states=true --eval.batch_size=3 --eval.use_async_envs=false --eval.n_episodes=10 --seed=1000 --output_dir=outputs/eval/2026-10-12_smolvla_libero_object_suite_10x10/task$i   (i=0..9)

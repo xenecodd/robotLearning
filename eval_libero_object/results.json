@@ -1,0 +1,72 @@
+{
+  "per_task": [
+    {
+      "task_id": 0,
+      "task": "",
+      "success": 3,
+      "n": 10
+    },
+    {
+      "task_id": 1,
+      "task": "",
+      "success": 8,
+      "n": 10
+    },
+    {
+      "task_id": 2,
+      "task": "",
+      "success": 9,
+      "n": 10
+    },
+    {
+      "task_id": 3,
+      "task": "",
+      "success": 9,
+      "n": 10
+    },
+    {
+      "task_id": 4,
+      "task": "",
+      "success": 9,
+      "n": 10
+    },
+    {
+      "task_id": 5,
+      "task": "",
+      "success": 10,
+      "n": 10
+    },
+    {
+      "task_id": 6,
+      "task": "",
+      "success": 9,
+      "n": 10
+    },
+    {
+      "task_id": 7,
+      "task": "",
+      "success": 5,
+      "n": 10
+    },
+    {
+      "task_id": 8,
+      "task": "",
+      "success": 5,
+      "n": 10
+    },
+    {
+      "task_id": 9,
+      "task": "",
+      "success": 6,
+      "n": 10
+    }
+  ],
+  "overall": {
+    "success": 73,
+    "n": 100,
+    "wilson95": [
+      0.6356769977376873,
+      0.8073053908233518
+    ]
+  }
+}
